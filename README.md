@@ -1,0 +1,2 @@
+# Rythm-Discord-Bot
+Rythm
